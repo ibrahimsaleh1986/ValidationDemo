@@ -1,0 +1,15 @@
+C:\Users\Isale\Work\ValidationDemo\bin\Debug\net6.0\ValidationDemo.exe
+C:\Users\Isale\Work\ValidationDemo\bin\Debug\net6.0\ValidationDemo.deps.json
+C:\Users\Isale\Work\ValidationDemo\bin\Debug\net6.0\ValidationDemo.runtimeconfig.json
+C:\Users\Isale\Work\ValidationDemo\bin\Debug\net6.0\ValidationDemo.dll
+C:\Users\Isale\Work\ValidationDemo\bin\Debug\net6.0\ref\ValidationDemo.dll
+C:\Users\Isale\Work\ValidationDemo\bin\Debug\net6.0\ValidationDemo.pdb
+C:\Users\Isale\Work\ValidationDemo\obj\Debug\net6.0\ValidationDemo.csproj.AssemblyReference.cache
+C:\Users\Isale\Work\ValidationDemo\obj\Debug\net6.0\ValidationDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isale\Work\ValidationDemo\obj\Debug\net6.0\ValidationDemo.AssemblyInfoInputs.cache
+C:\Users\Isale\Work\ValidationDemo\obj\Debug\net6.0\ValidationDemo.AssemblyInfo.cs
+C:\Users\Isale\Work\ValidationDemo\obj\Debug\net6.0\ValidationDemo.csproj.CoreCompileInputs.cache
+C:\Users\Isale\Work\ValidationDemo\obj\Debug\net6.0\ValidationDemo.dll
+C:\Users\Isale\Work\ValidationDemo\obj\Debug\net6.0\ref\ValidationDemo.dll
+C:\Users\Isale\Work\ValidationDemo\obj\Debug\net6.0\ValidationDemo.pdb
+C:\Users\Isale\Work\ValidationDemo\obj\Debug\net6.0\ValidationDemo.genruntimeconfig.cache
